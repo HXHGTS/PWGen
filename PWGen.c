@@ -6,7 +6,7 @@ int x, y,i,m;
 int main(){
 	printf("密码位数:");
 	scanf("%d", &x);
-	printf("\n至少需要的符号数量:");
+	printf("\n需要的特殊字符数量:");
 	scanf("%d", &y);
 	printf("\n需要产生的密码数量:");
 	scanf("%d", &m);
